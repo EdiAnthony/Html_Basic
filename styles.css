@@ -3,6 +3,10 @@ header{
     display: flex;
     border: solid rgb(238, 230, 230);
     width: 98%;
+    background-color: blue;
+    color: bisque;
+    text-transform: uppercase;
+    text-indent:35rem ;
 }
 article{
     display: flex;
@@ -11,16 +15,15 @@ article{
     width: 57%;
     position: relative;
 }
-/* aside{
-    padding-left: 75%;
-    padding-bottom: 40px;
-} */
+
 footer{
     display: flexbox;
     display: flex;
     border: solid rgb(238, 230, 230);
     text-align: center;
     width: 98%;
+    text-indent: 35rem;
+    background-color: burlywood;
 }
 aside {
     width: 30%;
